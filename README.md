@@ -1,4 +1,4 @@
-# Maryum Rasool / Deciphering Big Data
+# Deciphering Big Data 
 
 ## About me
 
