@@ -69,7 +69,7 @@ To demonstrate web scraping using Python's BeautifulSoup and Requests libraries 
 3. Extracts job titles and associated information for the keyword "Data Scientist"
 4. Save the extracted data into a file (JSON)
 
-[Code Available]()
+[Code Available](WebScraping)
 
 ## Normalization Task  
 ### Learned objectives:
@@ -125,7 +125,4 @@ The final [normalized tables](https://github.com/mariumrs/DBD/blob/main/normaliz
 
 All source material of assignment 1 can be found in the link below
 [Assignment published material](https://github.com/mariumrs/DBD/tree/main/Assignment%201)
-
-## SQL practice project 
-### Learned objectives:
 
