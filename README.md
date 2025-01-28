@@ -93,7 +93,9 @@ The final collaborative piece can be found on the git hub repository.
   - Exams Table links students and courses representing exam-related data
  <img width="278" alt="image" src="https://github.com/user-attachments/assets/e475055c-c091-4c5e-8415-b1bf7d30e6b7" />
 
-The final [normalized tables]()
+While building the DBMS the only issue regarding integrity was needing a primary key for courses table in the 3NF 
+
+The final [normalized tables](https://github.com/mariumrs/DBD/blob/main/normalization%20task.xlsx)
 
 ## Assignment 1 and team work 
 ### Learned objectives:
