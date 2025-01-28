@@ -64,15 +64,24 @@ The final collaborative piece can be found on the git hub repository.
 
 ## Normalization Task  
 ### Learned objectives:
-
+- Data Cleaning: Prepare datasets by removing empty rows, fixing missing data, and ensuring atomic values.
+- Was able to normalize data in 3 steps
+- Relational Design: Create linked tables with logical groupings for efficiency.
 
 ### Approach 
 3 steps towards normalization 
-- 1NF: each row is unique and data such as first name and last name is parsed into two tables
-- 2NF: removing partial dependency by ensuring tables completely depend on primary keys and not on different variables
-- 3NF removing non-key attribute to ensure there is no transitive dependency
-
-[normalized tables]()
+- 1NF:
+  - each row is unique and data such as first name and last name is parsed into two different fields in the [students table]().
+- 2NF
+  - removing partial dependency by ensuring tables completely depend on primary keys and not on different variables
+  - Data is segregated into two tables [courses]() containing unique sourse information and [Exam]()containing unique values.
+- 3NF
+  - removing non-key attribute to ensure there is no transitive dependency
+  - [Students Table]() contains unique student data with no redundant information.
+  - [Courses Table]() Contains unique course details ensuring no attribute depends on a non-primary key
+  - [Exams Table]()  links students and courses representing exam-related data
+    
+The final [normalized tables]()
 
 ## Assignment 1 and team work 
 ### Learned objectives:
