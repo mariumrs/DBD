@@ -108,12 +108,13 @@ The final [normalized tables](https://github.com/mariumrs/DBD/blob/main/normaliz
 
 ## Assignment 1 and team work 
 ### Learned objectives:
-- Analyzed Data Wrangling Challenges: Identified issues like missing values and duplicates, and applied normalization and ETL processes to clean and prepare data.
-- Optimized Data Management: research on usages of indexing, partitioning, and security measures (encryption, role-based access) to ensure data integrity and performance.
-- Proficiency in MySQL: Created a databse format that allowed to be querried and later transformed into a Database 
-- Collaborated Effectively: Worked in a virtual team, adopting real-life roles to design and implement the database.
-- Solved Problems and Improved Systems: Evaluated the design for scalability, proposed ML/NLP integration, and suggested GDPR compliance for future-proofing.
-- Aligned with Business Goals: Ensured the database enhances customer satisfaction and loyalty, while identifying areas for improvement like real-time analytics.
+- Analyzed data wrangling challenges like missing values and duplicates, and applied normalization and ETL processes to clean and prepare data.
+- Optimized Data Management by researching on usages of indexing, partitioning, and security measures (encryption, role-based access) to ensure data integrity and performance.
+- Proficiency in MySQL: Created a databse format that allowed the data to be querried and later transformed into a Database 
+- Collaborated effectively by working in a virtual team, adopting real-life roles to design and implement the database
+- How to work as a team to brainstorm ideas and see more perspectives.
+- Solved problems and Improved Systems: Evaluated the design for scalability, proposed ML/NLP integration, and suggested GDPR compliance for future-proofing.
+- Aligned with business goals ensuringthe database enhances customer satisfaction and loyalty, while identifying areas for improvement like real-time analytics.
 
 ### Meeting disucssions   
 - Meeting 1 : self introductions and disucssion to understand the assignment and what it entails
@@ -125,4 +126,26 @@ The final [normalized tables](https://github.com/mariumrs/DBD/blob/main/normaliz
 
 All source material of assignment 1 can be found in the link below
 [Assignment published material](https://github.com/mariumrs/DBD/tree/main/Assignment%201)
+
+## API Security Requirements 
+### Learnt Objectives 
+- Identified and mitigated security risks associated with API usage and data sharing.
+- Gained proficiency in securing API connections using authentication, rate limiting, and input validation.
+- Improved skills in handling and storing data securely across JSON, XML, and SQL formats.
+- Developed error-handling techniques to maintain data integrity during API interactions.
+- Enhanced collaboration 
+- Strengthened problem-solving abilities for addressing data wrangling challenges.
+
+### API Requirements : Coin Gecko 
+## Summary 
+evaluated the security requirements of the CoinGecko API to enable data sharing and connectivity between Python code and file formats like JSON, XML, and SQL. The focus was on mitigating risks and ensuring secure data handling.
+
+Key security measures included:
+- Using API keys for authentication and adhering to rate limits to avoid disruptions.
+- Validating API responses to ensure data integrity and handling errors in case of incomplete data.
+- Sanitizing inputs to prevent injection attacks and securing API keys with environment variables.
+- Encrypting sensitive data when storing it in databases or exporting it to JSON/XML.
+- Monitoring API usage and staying updated with CoinGecko’s security guidelines.
+
+[Code](API)
 
