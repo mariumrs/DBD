@@ -40,7 +40,7 @@ Welcome to my e-portfolio, a curated collection of my journey through the explor
 This portfolio showcases my understanding of Data types, storage formats and the critical evaluation of data integrity and reliability. Aditionally it highlights my proficiency in utilizing tools and methodologies to adress data wrangling challanges as well as my ability to design and implement solutions for complex data problems 
  
 ### Collabrative discussion 1 : The Data Collection Process 
-#### Learned objectives:
+## Learned objectives:
 - Critically evaluated the rationale behind the Internet of Things (IoT) using insights from Huxley et al. (2020).
 - Identified opportunities, limitations, risks, and challenges associated with large-scale IoT data collection.
 - Reviewed Lecturecast materials and also went through some of the posted comments to makeup the collabrative discussion
@@ -50,7 +50,7 @@ The final collaborative piece can be found on the git hub repository.
 [Collabrative Discussion 1](https://github.com/mariumrs/DBD/blob/main/Collabrative%20Discussion%20Summary%201.docx)
  
 ### Collabrative discussion 2: Comparing Compliance Laws 
-#### Learned objectives:
+## Learned objectives:
 - Compared the GDPR’s securing personal data principle with similar compliance laws in my country of residence or the ICO’s standards in the UK.
 - Analyzed the GDPR’s security requirements, including exemptions, and discussed their alignment or divergence with other regulations.
 - demonstrated comprehension of GDPR’s security standards and application in the datawrangling process 
