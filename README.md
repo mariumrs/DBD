@@ -36,8 +36,7 @@ Welcome to my e-portfolio, a curated collection of my journey through the explor
 - Explore machine learning concepts and their role in handling big data.
 - Develop teamwork skills for effective collaboration in professional environments.  
 
- #### How I’ve applied these concepts in practice
- 
+ ### How I’ve applied these concepts in practice
  This portfolio showcases my understanding of data types, storage formats, and the critical evaluation of data integrity and reliability. Additionally, it highlights my proficiency in utilizing tools and methodologies to address data wrangling challenges, as well as my ability to design and implement solutions for complex data problems.
 
  
@@ -48,6 +47,7 @@ Learned objectives:
 - Reviewed Lecturecast materials and also went through some of the posted comments to makeup the collabrative discussion
   
 The final collaborative piece can be found on the git hub repository.
+
 [Collabrative Discussion 1]https://github.com/mariumrs/DBD/blob/main/Collabrative%20Discussion%20Summary%201.docx
  
 ### Collabrative discussion 2: Comparing Compliance Laws 
