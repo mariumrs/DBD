@@ -71,16 +71,28 @@ The final collaborative piece can be found on the git hub repository.
 ### Approach 
 3 steps towards normalization 
 - 1NF:
-  - each row is unique and data such as first name and last name is parsed into two different fields in the [students table]().
+  - each row is unique and data such as first name and last name is parsed into two different fields in the students table
+ <img width="722" alt="image" src="https://github.com/user-attachments/assets/ebb4dd98-5099-444a-93d2-dd5e6b93dd6b" />
+  
 - 2NF
   - removing partial dependency by ensuring tables completely depend on primary keys and not on different variables
-  - Data is segregated into two tables [courses]() containing unique sourse information and [Exam]()containing unique values.
+    <img width="310" alt="image" src="https://github.com/user-attachments/assets/394ade36-4a41-4c7f-bc0b-3cb69a6407b6" />
+
+  - Data is segregated into two tables courses containing unique sourse information and exam containing unique values
+   <img width="229" alt="image" src="https://github.com/user-attachments/assets/94ac5a67-379d-4f36-8484-4e315f2b38df" />
+   <img width="275" alt="image" src="https://github.com/user-attachments/assets/911fe4f6-8cfb-40af-b61e-7b6b3da1c8e2" />
+
 - 3NF
   - removing non-key attribute to ensure there is no transitive dependency
-  - [Students Table]() contains unique student data with no redundant information.
-  - [Courses Table]() Contains unique course details ensuring no attribute depends on a non-primary key
-  - [Exams Table]()  links students and courses representing exam-related data
-    
+  - Students Table contains unique student data with no redundant information.
+  <img width="341" alt="image" src="https://github.com/user-attachments/assets/c23f4605-c869-4c0f-a2e0-bee6c5ad9f61" />
+  
+  - Courses Table Contains unique course details ensuring no attribute depends on a non-primary key
+ <img width="231" alt="image" src="https://github.com/user-attachments/assets/b99f846e-0a8e-4756-b397-c2f99dfe6304" />
+
+  - Exams Table links students and courses representing exam-related data
+ <img width="278" alt="image" src="https://github.com/user-attachments/assets/e475055c-c091-4c5e-8415-b1bf7d30e6b7" />
+
 The final [normalized tables]()
 
 ## Assignment 1 and team work 
@@ -105,4 +117,4 @@ All source material of assignment 1 can be found in the link below
 
 ## SQL practice project 
 ### Learned objectives:
-<img width="416" alt="image" src="">
+
