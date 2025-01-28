@@ -36,9 +36,8 @@ Welcome to my e-portfolio, a curated collection of my journey through the explor
 - Explore machine learning concepts and their role in handling big data.
 - Develop teamwork skills for effective collaboration in professional environments.  
 
- ### How I’ve applied these concepts in practice
- This portfolio showcases my understanding of data types, storage formats, and the critical evaluation of data integrity and reliability. Additionally, it highlights my proficiency in utilizing tools and methodologies to address data wrangling challenges, as well as my ability to design and implement solutions for complex data problems.
-
+### Applied concept 
+This portfolio showcases my understanding of Data types, storage formats and the critical evaluation of data integrity and reliability. Aditionally it highlights my proficiency in utilizing tools and methodologies to adress data wrangling challanges as well as my ability to design and implement solutions for complex data problems 
  
 ### Collabrative discussion 1 : The Data Collection Process 
 Learned objectives:
