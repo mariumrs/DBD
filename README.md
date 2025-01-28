@@ -59,8 +59,10 @@ The final collaborative piece can be found on the git hub repository.
 The final collaborative piece can be found on the git hub repository.
 [Collabrative Discussion 2](https://github.com/mariumrs/DBD/blob/main/Collabrative%20Discussion%20Smmary%202.pdf)
 
-## Web scraping 
+## Web scraping with Python 
 ### Learned objectives:
+To demonstrate web scraping using Python's BeautifulSoup and Requests libraries by searching for "Data Scientist" and parsing the results into a JSON file.
+
 
 ## Normalization Task  
 ### Learned objectives:
