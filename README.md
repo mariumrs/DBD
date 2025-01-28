@@ -69,9 +69,23 @@ The final collaborative piece can be found on the git hub repository.
 
 ## Assignment 1 and team work 
 ### Learned objectives:
+- Analyzed Data Wrangling Challenges: Identified issues like missing values and duplicates, and applied normalization and ETL processes to clean and prepare data.
+- Optimized Data Management: Used indexing, partitioning, and security measures (encryption, role-based access) to ensure data integrity and performance.
+- Proficient in MySQL: Created, updated, and queried databases, managing relationships and ensuring efficient data retrieval.
+- Collaborated Effectively: Worked in a virtual team, adopting real-life roles to design and implement the database.
+- Solved Problems and Improved Systems: Evaluated the design for scalability, proposed ML/NLP integration, and suggested GDPR compliance for future-proofing.
+- Aligned with Business Goals: Ensured the database enhances customer satisfaction and loyalty, while identifying areas for improvement like real-time analytics.
 
+### Meeting disucssions   
+- Meeting 1 : self introductions and disucssion to understand the assignment and what it entails
+- Meeting 2: Creating an overview of the assignment and discussion the business industry we would like to focus on that would cover all aspects of the requirements can be seen in [Overview](https://github.com/mariumrs/DBD/blob/main/Assignment%201/assignment_overview.pdf)
+- Meeting 3: Creating a [mockup ERD](https://github.com/mariumrs/DBD/blob/main/Assignment%201/ERD%20-%20Retail.png) by highlighting processes that should be in place 
+- Meeting 4: Creating [assumptions](https://github.com/mariumrs/DBD/blob/main/Assignment%201/ERD_assumptions.pdf) for ERD and disucssing how to normalize the ERD data
+- Meeting 5 Finalizing the ERD and dividing sections of the document. 
+- Meeting 6: [Final](https://github.com/mariumrs/DBD/blob/main/Assignment%201/Project%20Report.pdf) review as well as compilation, adjusting document in adherence to the world limit
 
-### Meeting notes inclusive of 
+All source material of assignment 1 can be found in the link below
+[Assignment published material](https://github.com/mariumrs/DBD/tree/main/Assignment%201)
 
 ## SQL practice project 
 ### Learned objectives:
