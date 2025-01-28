@@ -65,7 +65,14 @@ The final collaborative piece can be found on the git hub repository.
 ## Normalization Task  
 ### Learned objectives:
 
+
 ### Approach 
+3 steps towards normalization 
+- 1NF: each row is unique and data such as first name and last name is parsed into two tables
+- 2NF: removing partial dependency by ensuring tables completely depend on primary keys and not on different variables
+- 3NF removing non-key attribute to ensure there is no transitive dependency
+
+[normalized tables]()
 
 ## Assignment 1 and team work 
 ### Learned objectives:
