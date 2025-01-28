@@ -48,7 +48,7 @@ Learned objectives:
 - Reviewed Lecturecast materials and also went through some of the posted comments to makeup the collabrative discussion
   
 The final collaborative piece can be found on the git hub repository.
-[Collabrative Discussion 1]
+[Collabrative Discussion 1]https://github.com/mariumrs/DBD/blob/main/Collabrative%20Discussion%20Summary%201.docx
  
 ### Collabrative discussion 2: Comparing Compliance Laws 
 Learned objectives:
