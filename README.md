@@ -70,8 +70,8 @@ The final collaborative piece can be found on the git hub repository.
 ## Assignment 1 and team work 
 ### Learned objectives:
 - Analyzed Data Wrangling Challenges: Identified issues like missing values and duplicates, and applied normalization and ETL processes to clean and prepare data.
-- Optimized Data Management: Used indexing, partitioning, and security measures (encryption, role-based access) to ensure data integrity and performance.
-- Proficient in MySQL: Created, updated, and queried databases, managing relationships and ensuring efficient data retrieval.
+- Optimized Data Management: research on usages of indexing, partitioning, and security measures (encryption, role-based access) to ensure data integrity and performance.
+- Proficiency in MySQL: Created a databse format that allowed to be querried and later transformed into a Database 
 - Collaborated Effectively: Worked in a virtual team, adopting real-life roles to design and implement the database.
 - Solved Problems and Improved Systems: Evaluated the design for scalability, proposed ML/NLP integration, and suggested GDPR compliance for future-proofing.
 - Aligned with Business Goals: Ensured the database enhances customer satisfaction and loyalty, while identifying areas for improvement like real-time analytics.
