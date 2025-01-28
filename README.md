@@ -63,6 +63,13 @@ The final collaborative piece can be found on the git hub repository.
 ### Learned objectives:
 To demonstrate web scraping using Python's BeautifulSoup and Requests libraries by searching for "Data Scientist" and parsing the results into a JSON file.
 
+### Python code steps 
+1. Send request using request module
+2. Parse the response HTML with BeautifulSoup / ensure library is installed 
+3. Extracts job titles and associated information for the keyword "Data Scientist"
+4. Save the extracted data into a file (JSON)
+
+[Code Available]()
 
 ## Normalization Task  
 ### Learned objectives:
